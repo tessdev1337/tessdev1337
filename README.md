@@ -32,10 +32,10 @@
 
 ## ⏱️ coding activity
 <p align="center">
-  <img src="https://wakatime.com/share/@TWÓJ_USERNAME/languages.svg" />
+  <img src="https://wakatime.com/share/@Tess1337/languages.svg" />
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/TWÓJ_ID.svg)](https://wakatime.com/@Tess1337)
+[![wakatime](https://wakatime.com/badge/user/Tess1337.svg)](https://wakatime.com/@Tess1337)
 
 ---
 
