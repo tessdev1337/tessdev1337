@@ -20,7 +20,6 @@
 * TypeScript ecosystem
 * React / Next.js
 * Go
-* Rust
 * Python
 
 ---
@@ -28,7 +27,7 @@
 ## ⚒️ tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,go,rust,python" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,go,python" />
   <br />
   <img src="https://skillicons.dev/icons?i=docker,git,linux,neovim" />
 </p>
