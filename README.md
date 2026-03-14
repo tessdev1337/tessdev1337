@@ -33,14 +33,6 @@
   <img src="https://skillicons.dev/icons?i=docker,git,linux,neovim" />
 </p>
 
----
-
-## 📊 github stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tessdev1337&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tessdev1337&layout=compact&theme=tokyonight" height="150"/>
-</p>
 
 ---
 
