@@ -28,14 +28,6 @@
   <img src="https://skillicons.dev/icons?i=docker,git,linux,neovim" />
 </p>
 
----
-
-## ⏱️ coding activity
-<p align="center">
-  <img src="https://wakatime.com/share/@Tess1337/languages.svg" />
-</p>
-
-[![wakatime](https://wakatime.com/badge/user/Tess1337.svg)](https://wakatime.com/@Tess1337)
 
 ---
 
